@@ -11,5 +11,5 @@ This case project involves analyzing banking data to uncover client trends and e
 
 ## Experience Gained
 - **Data Visualization:** Applied appropriate graphs and plots for different types of data.
-- **Outlier Detection:** Used box plots to identify and analyze outliers.
+- **Outlier Detection:** Used box plots & z-score to identify and analyze outliers.
 - **Correlation Analysis:** Analyzed correlations to understand relationships between variables.
